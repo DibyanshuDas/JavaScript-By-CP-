@@ -19,3 +19,17 @@ document.getElementById('age').innerHTML = 'Your age is '+age; //A simple progra
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
