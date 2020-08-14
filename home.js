@@ -16,3 +16,6 @@ document.getElementById('someText').innerHTML = 'Hey There'; //Change the id val
 var age = prompt('What\'s your age');//Prompt is used for asking the user
 
 document.getElementById('age').innerHTML = 'Your age is '+age; //A simple program which can tell your age.
+
+
+
