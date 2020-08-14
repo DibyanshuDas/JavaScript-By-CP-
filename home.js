@@ -48,14 +48,3 @@ console.log(26 % 5); //It will show the remainder when dividing the number like 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
