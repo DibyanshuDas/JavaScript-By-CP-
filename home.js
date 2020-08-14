@@ -24,9 +24,9 @@ var num1 = 45;//numbers stored in variables
 
 
 //How to increase or decrease a number 
-num1 = num1 +10;     //Increase by 10
+num1 = num1 + 11;     //Increase by 11
 console.log(num1)
-num1 = num1 -10;     //Decrease by 10
+num1 = num1 - 11;     //Decrease by 11
 console.log(num1)
 
 
@@ -43,8 +43,11 @@ console.log(5 + 10); //You can add numbers in JS
 console.log(5 - 10); //You can subtract numbers in JS
 console.log(26 % 5); //It will show the remainder when dividing the number like 26/5 = 5 quotient and 1 remainder 
 
-
-
+//Increment and decrement by any number in JS
+num1 += 10;//Increase by 10
+console.log(num1)
+num1 -= 10;//Decrease by 10
+console.log(num1)
 
 
 
