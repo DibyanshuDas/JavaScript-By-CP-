@@ -1,4 +1,4 @@
-To be done in console tab in the inspect area of any browser (Google chrome is recommended)
+To be done in console tab in the inspect area
 
 document.body.contentEditable = 'true'
 
