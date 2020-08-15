@@ -44,3 +44,7 @@ num1 += 10; //Increase by 10
 console.log(num1);
 num1 -= 10; //Decrease by 10
 console.log(num1);
+
+
+
+
