@@ -1,0 +1,5 @@
+To be done in console tab in the inspect area of any browser (Google chrome is recommended)
+
+document.body.contentEditable = 'true'
+
+then press enter
